@@ -1,0 +1,15 @@
+nav {
+  background-color: rgb(103, 110, 110);
+  font-family: "Tiro Telugu", serif;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: white;
+  color: rgb(103, 110, 110);
+  padding: 8px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}

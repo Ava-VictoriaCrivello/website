@@ -1,0 +1,9 @@
+nav {
+  background-color: rgb(103, 110, 110);
+  font-family: "Tiro Telugu", serif;
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  width: 80%;
+  row-gap: 25px;
+}
